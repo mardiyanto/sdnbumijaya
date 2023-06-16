@@ -36,8 +36,10 @@
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Tentang Kami</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="xxx.php?module=tentang&id_profil=1" class="dropdown-item">Tentang </a>
-                        <a href="xxx.php?module=tentang&id_profil=2" class="dropdown-item">Sejarah</a>
-                        <a href="xxx.php?module=tentang&id_profil=3" class="dropdown-item">Visi Misi</a>
+						<a href="xxx.php?module=tentang&id_profil=5" class="dropdown-item">Guru Kami </a>
+						<a href="xxx.php?module=tentang&id_profil=6" class="dropdown-item">Extra Kulikuler Kami</a>
+                        <a href="xxx.php?module=tentang&id_profil=2" class="dropdown-item">siswa reguler</a>
+                        <a href="xxx.php?module=tentang&id_profil=4" class="dropdown-item">siswa pip</a>
                     </div>
                 </div>
                 <a href="xxx.php?module=artikel" class="nav-item nav-link">Informasi</a>
