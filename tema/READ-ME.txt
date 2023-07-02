@@ -1,6 +1,6 @@
-  =>  Template Name    : Milky - Free Dairy Website Template
+  =>  Template Name    : Industro - Industrial HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/dairy-website-template
+  =>  Template Link    : https://htmlcodex.com/industrial-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 

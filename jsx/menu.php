@@ -31,11 +31,6 @@
             <i class="fa fa-mortar-board"></i> <span>Profil</span>
           </a>
         </li> 
-        <li >
-          <a href="index.php?aksi=halaman">
-            <i class="fa fa-mortar-board"></i> <span>Halaman</span>
-          </a>
-        </li> 
 			    <li >
           <a href="index.php?aksi=kritik">
             <i class="fa fa-mortar-board"></i> <span>kritik</span>
